@@ -3,5 +3,8 @@ description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 color_scheme: dark
 url: https://harrynow83.github.io/3Ddocs/
+color_scheme: custom                  # aquí usamos nuestro esquema propio
 
+just_the_docs:
+  search_enabled: true                 # activa el buscador
 
