@@ -2,7 +2,7 @@
 title: Home
 layout: home
 ---
-📚 Índice Final – Guía Completa de Impresión 3D
+
 📘 1 - Introducción
 
 “Del sueño a la realidad: cómo la impresión 3D cambiará tu forma de crear”
